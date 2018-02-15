@@ -9,3 +9,9 @@ i=%L2
 j=%L3
 
 f=%O0
+
+ADD %L0 , %L1 , %L0
+
+ADD %L2 , %L3 , %L1
+
+SUB %L0 , %L1 , %O0
